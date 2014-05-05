@@ -1,7 +1,7 @@
 sns_receiver
 ============
 
-A Library to handle SNS HTTP(S) responses in Codeigniter
+A simple PHP library to handle SNS HTTP(S) notifications in Codeigniter
 
 This library will handle the json messages received by [AWS SNS](http://aws.amazon.com/sns/). The initial idea was addopted from [Nathan Flood](https://github.com/npflood)'s [AWS-SNS-HTTP-PHP-ENDPOINT](https://github.com/npflood/AWS-SNS-HTTP-PHP-ENDPOINT) and modified to be used with Codeigniter 2.1.3.
 
