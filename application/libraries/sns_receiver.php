@@ -241,4 +241,5 @@ class sns_receiver {
 		return $domain;
 	}
 }
-?>
+/* End of file sns_receiver.php */
+/* Location: ./libraries/sns_receiver.php */
